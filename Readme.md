@@ -1,2 +1,3 @@
-# My test repository
-This is a readme file from the second developer.
+THIS IS THE INTELLIJ VERSION.
+IT IS COMPLETELY DIFFERENT FROM THE GIT BASH VERSION.
+THIS WILL CAUSE A CONFLICT.
